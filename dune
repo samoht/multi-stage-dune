@@ -1,3 +1,0 @@
-(library (modules foo) (name foo))
-
-(test (modules gen) (name gen) (libraries foo))
